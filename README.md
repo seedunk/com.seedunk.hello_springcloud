@@ -1,2 +1,2 @@
-# com.seedunk.hello_springcloud
+# Hello SpringCloud
 springcloud示例项目
